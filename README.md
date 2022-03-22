@@ -14,3 +14,6 @@ Nuevamente muchas gracias a todos, puedes contactarme si quieres
 <h3>Contenido</h3>
 
 Dia1 - Generador de Nombres: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day1-generador-nombre.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Generador-de-Nombres?v=1" target="_blank">App</a> | <a href="#" target="_blank">Video</a>
+<br>
+<br>
+Dia2 - <i>comming soon... :relieved:</i>
