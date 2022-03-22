@@ -1,3 +1,4 @@
+# Porfa lee esto primero (no seas como el compadre JAJAJA)
 # #100DaysOfCode with python
 
 Hola, este es mi portafolio de mis proyectos creados gracias al curso de de <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">#100DaysOfCode with python</a>, de Udemy, vamos a ir arrancando desde el dia 1 hasta el dia 100 (eso esperamos jeje) asi que sin mas agradezco tu tiempo.
