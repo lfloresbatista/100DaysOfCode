@@ -17,4 +17,6 @@ Nuevamente muchas gracias a todos, puedes contactarme si quieres
 Dia1 - Generador de Nombres: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day1-generador-nombre.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Generador-de-Nombres?v=1" target="_blank">App</a> | <a href="https://www.instagram.com/p/Cba632qJHfE/" target="_blank">Video</a>
 <br>
 <br>
-Dia2 - <i>comming soon... :relieved:</i>
+Dia2 - Calculadora de Propinas: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day2-calculadora-propina.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Calculadora-de-Propinas?v=1" target="_blank">App</a> | <a href="#" target="_blank">Video</a>
+<br>
+Dia3 <i>comming soon... :relieved:</i>
