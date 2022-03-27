@@ -17,12 +17,12 @@ Nuevamente muchas gracias a todos, puedes contactarme si quieres
 Dia1 - Generador de Nombres: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day1-generador-nombre.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Generador-de-Nombres?v=1" target="_blank">App</a> | <a href="https://www.instagram.com/p/Cba632qJHfE/" target="_blank">Video</a>
 <br>
 <br>
-Dia2 - Calculadora de Propinas: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day2-calculadora-propina.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Calculadora-de-Propinas?v=1" target="_blank">App</a> | <a href="https://www.instagram.com/tv/CbfVTc-LI51/?utm_medium=copy_link" target="_blank">Video</a>
+Dia2 - Calculadora de Propinas: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day2-calculadora-propina.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Calculadora-de-Propinas?v=1" target="_blank">App</a> | <a href="https://www.instagram.com/tv/CbfVTc-LI51" target="_blank">Video</a>
 <br>
 <br>
-Dia3 - Calculadora de Propinas: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day3-busqueda-tesoro.py">Code</a> | <a href="https://replit.com/@lfloresbatista/La-busqueda-del-tesoro" target="_blank">App</a> | <a href="#" target="_blank">Video</a>
+Dia3 - Busqueda del Tesoro: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day3-busqueda-tesoro.py">Code</a> | <a href="https://replit.com/@lfloresbatista/La-busqueda-del-tesoro" target="_blank">App</a> | <a href="https://www.instagram.com/tv/CbmSevSMEUt" target="_blank">Video</a>
 <br>
 <br>
-Dia4<i>comming soon... :relieved:</i>
+Dia4  <i>comming soon... :relieved:</i>
 <br>
-<br>
+<br> 
