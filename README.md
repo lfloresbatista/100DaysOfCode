@@ -23,6 +23,9 @@ Dia2 - Calculadora de Propinas: <a href="https://github.com/lfloresbatista/100Da
 Dia3 - Busqueda del Tesoro: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day3-busqueda-tesoro.py">Code</a> | <a href="https://replit.com/@lfloresbatista/La-busqueda-del-tesoro" target="_blank">App</a> | <a href="https://www.instagram.com/tv/CbmSevSMEUt" target="_blank">Video</a>
 <br>
 <br>
-Dia4  <i>comming soon... :relieved:</i>
+Dia4 - Piedra papel o tijeras: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day4-piedra-papel-o-tijeras.py">Code</a> | <a href="https://replit.com/@lfloresbatista/El-mundo-de-piedra-papel-o-tijeras" target="_blank">App</a> | <i>Video (Los videos vendran a partir del dia 50, Gracias</i>
+<br>
+<br>
+<i>Dia 5 - comming soon... :relieved:</i>
 <br>
 <br> 
