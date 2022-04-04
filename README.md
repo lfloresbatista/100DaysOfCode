@@ -29,6 +29,9 @@ Dia4 - Piedra papel o tijeras: <a href="https://github.com/lfloresbatista/100Day
 Dia 5 - Generador de contrasenas: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day5-password-generator.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Generador-de-Contrasenas" target="_blank">App</a> 
 <br>
 <br>
-<i>Dia6 - comming soon... :relieved:</i>
+Dia6 - Escapando del laberinto: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day6-Escaping-the-maze.py">Code</a> 
+<br>
+<br>
+<i> Dia7 - comming soon... :relieved:</i>
 <br>
 <br> 
