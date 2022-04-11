@@ -26,12 +26,15 @@ Dia3 - Busqueda del Tesoro: <a href="https://github.com/lfloresbatista/100DaysOf
 Dia4 - Piedra papel o tijeras: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day4-piedra-papel-o-tijeras.py">Code</a> | <a href="https://replit.com/@lfloresbatista/El-mundo-de-piedra-papel-o-tijeras" target="_blank">App</a> | <i>Video (Los videos vendran a partir del dia 50, Gracias</i>
 <br>
 <br>
-Dia 5 - Generador de contrasenas: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day5-password-generator.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Generador-de-Contrasenas" target="_blank">App</a> 
+Dia5 - Generador de contrasenas: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day5-password-generator.py">Code</a> | <a href="https://replit.com/@lfloresbatista/Generador-de-Contrasenas" target="_blank">App</a> 
 <br>
 <br>
 Dia6 - Escapando del laberinto: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day6-Escaping-the-maze.py">Code</a> 
 <br>
 <br>
-<i> Dia7 - comming soon... :relieved:</i>
+Dia7 - Hangman (El ahorcado, proximamente en espanol): <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/Day7-Hangman">Code</a> | <a href="https://replit.com/@lfloresbatista/Day-7-Hangman" target="_blank">App</a> 
+<br>
+<br>
+<i> Ddia8 - comming soon... :relieved:</i>
 <br>
 <br> 
