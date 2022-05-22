@@ -38,6 +38,9 @@ Dia7 - Hangman (El ahorcado, proximamente en espanol): <a href="https://github.c
 Dia8 - Ceaser Cipher: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/Day8-Ceasar-Cipher">Code</a> | <a href="https://replit.com/@lfloresbatista/Day8-Ceasar-Cipher">App</a>
 <br>
 <br>
-<i>Dia0 - comming soon... :relieved:</i>
+Dia9 - Subasta secreta: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day9-blind-auction.py">Code</a> | <a href="https://replit.com/@lfloresbatista/blind-auction">App</a>
+<br>
+<br>
+<i>Dia10 - comming soon... :relieved:</i>
 <br>
 <br> 
