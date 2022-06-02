@@ -41,6 +41,9 @@ Dia8 - Ceaser Cipher: <a href="https://github.com/lfloresbatista/100DaysOfCode/t
 Dia9 - Subasta secreta: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day9-blind-auction.py">Code</a> | <a href="https://replit.com/@lfloresbatista/blind-auction">App</a>
 <br>
 <br>
-<i>Dia10 - comming soon... :relieved:</i>
+Dia10 - Calculadora: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day10-calculator.py">Code</a> | <a href="https://replit.com/@lfloresbatista/day10-Calculator">App</a>
+<br>
+<br>
+<i>Dia11 - comming soon... :relieved:</i>
 <br>
 <br> 
