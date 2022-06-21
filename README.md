@@ -44,6 +44,18 @@ Dia9 - Subasta secreta: <a href="https://github.com/lfloresbatista/100DaysOfCode
 Dia10 - Calculadora: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day10-calculator.py">Code</a> | <a href="https://replit.com/@lfloresbatista/day10-Calculator">App</a>
 <br>
 <br>
-<i>Dia11 - comming soon... :relieved:</i>
+Dia11 - BlackJack (21): <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day11-blackjack.py" target="_blank">Code</a> | <a href="https://replit.com/@lfloresbatista/blackjack-start" target="_blank">App</a> 
+<br>
+<br>
+Dia12 - Adivina el numero: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day12-adivina-numero.py" target="_blank">Code</a> | <a href="https://replit.com/@lfloresbatista/guess-the-number-start" target="_blank">App</a> 
+<br>
+<br>
+Dia13 - Dia de Debuging
+<br>
+<br>
+Dia14 - Higher and Lower: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day14-higher-lower" target="_blank">Code</a> | <a href="https://replit.com/@lfloresbatista/higher-lower" target="_blank">App</a> 
+<br>
+<br>
+<i>Dia 15 - comming soon... :relieved:</i>
 <br>
 <br> 
