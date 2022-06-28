@@ -56,7 +56,7 @@ Dia13 - Dia de Debuging
 Dia14 - Higher and Lower: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day14-higher-lower" target="_blank">Code</a> | <a href="https://replit.com/@lfloresbatista/higher-lower" target="_blank">App</a> 
 <br>
 <br>
-Dia 15 - Coffee Machine: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day16-cofee_machine"Code
+Dia 15 - Coffee Machine: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day16-cofee_machine">Code</a>
 <br>
 <br>
 <i> Dia 16 - comming soon... :relieved:</i>
