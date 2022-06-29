@@ -28,8 +28,3 @@ class QuizBrain:
         print("\n")
 
 
-#TODO: asking the questions
-
-#TODO: checking if the asnwer was correct
-
-#TODO: checking if we're the end of the quiz
