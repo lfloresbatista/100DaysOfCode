@@ -59,6 +59,12 @@ Dia14 - Higher and Lower: <a href="https://github.com/lfloresbatista/100DaysOfCo
 Dia 15 - Coffee Machine: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day16-cofee_machine">Code</a>
 <br>
 <br>
-<i> Dia 16 - comming soon... :relieved:</i>
+Dia 16 - Coffee Machine OOP: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day15-coffee-machine-OOP" target="_blank">Code</a>
+<br>
+<br> 
+Dia17 - Quiz (OOP): <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day17-quiz-OOP" target="_blank">Code</a>
+<br>
+<br>
+<i>Dia 18 - comming soon... :relieved:</i>
 <br>
 <br> 
