@@ -18,7 +18,7 @@ while is_on:
     elif user_choice == "report":
         cm_barista.report()
         cm_money.report()
-    else:
+    elif cm_menu.find_drink(user_choice):
         drink = cm_menu.find_drink(user_choice)
         if cm_barista.is_resource_sufficient(drink):
             if cm_money.make_payment(drink.cost):
