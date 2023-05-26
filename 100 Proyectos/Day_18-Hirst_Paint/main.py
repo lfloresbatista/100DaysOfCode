@@ -5,7 +5,6 @@ import random
 hp = Turtle()
 screen = Screen()
 screen.colormode(255)
-# hp.pencolor(random.choice(color_list))
 x = -300
 y = -200
 hp.speed("fastest")
@@ -22,5 +21,3 @@ for _ in range(10):
 
 screen.exitonclick()
 
-# TODO 10 x 10
-# todo size=20 space=50
