@@ -22,5 +22,3 @@ class ScoreBoard(Turtle):
         self.score += 1
         self.write(arg=f"Score: {self.score}", align=ALIGN, font=FONT)
 
-
-# todo llevar cuenta de la puntuacion, y como mostrarla en el programa
