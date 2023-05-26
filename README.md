@@ -65,6 +65,15 @@ Dia 16 - Coffee Machine OOP: <a href="https://github.com/lfloresbatista/100DaysO
 Dia17 - Quiz (OOP): <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day17-quiz-OOP" target="_blank">Code</a>
 <br>
 <br>
-<i>Dia 18 - comming soon... :relieved:</i>
+Dia 18 - Hirst Painting: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/Day_18-Hirst_Paint" target="_blank">Code</a>
+<br>
+<br>
+Dia 19 - Turtle Race: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day%2019-turtle_race.py" target="_blank">Code</a>
+<br>
+<br>
+Dia 20 & 21 - Snake Game: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day%2020-22_Snake-Game" target="_blank">Code</a>
+<br>
+<br>
+<i>Dia 22 - comming soon... :relieved:</i>
 <br>
 <br> 
