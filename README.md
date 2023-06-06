@@ -71,7 +71,7 @@ Dia 18 - Hirst Painting: <a href="https://github.com/lfloresbatista/100DaysOfCod
 Dia 19 - Turtle Race: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/day%2019-turtle_race.py" target="_blank">Code</a>
 <br>
 <br>
-Dia 20 & 21 - Snake Game: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day%2020-22_Snake-Game" target="_blank">Code</a>
+Dia 20 & 21 - Snake Game: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day%2020-21_Snake-Game" target="_blank">Code</a>
 <br>
 <br>
 <i>Dia 22 - comming soon... :relieved:</i>
