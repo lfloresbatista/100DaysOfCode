@@ -74,6 +74,9 @@ Dia 19 - Turtle Race: <a href="https://github.com/lfloresbatista/100DaysOfCode/b
 Dia 20 & 21 - Snake Game: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day%2020-21_Snake-Game" target="_blank">Code</a>
 <br>
 <br>
-<i>Dia 22 - comming soon... :relieved:</i>
+Dia 22 - Ping Pong Game: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/day%2022_Ping-Pong_Game" target= "_blank">Code</a>
+<br>
+<br>
+<i>Dia 23 comming soon... :relieved:</i>
 <br>
 <br> 
