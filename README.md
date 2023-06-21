@@ -89,6 +89,9 @@ Dia 25 - Panama States Game: <a href="https://github.com/lfloresbatista/100DaysO
 Dia 26 - NATO Alphabet: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/Dia26-NATO_Alphabet">Code</a>
 <br>
 <br>
-<i> Dia 27 - comming soon... :relieved:</i>
+Dia 27 - Miles to Km Converter (tkinter): <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/Dia27-Miles_to_Km_Converter.py">Code</a>
+<br>
+<br>
+<i>comming soon... :relieved:</i>
 <br>
 <br> 
