@@ -92,7 +92,7 @@ Dia 26 - NATO Alphabet: <a href="https://github.com/lfloresbatista/100DaysOfCode
 Dia 27 - Miles to Km Converter (tkinter): <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/Dia27-Miles_to_Km_Converter.py">Code</a>
 <br>
 <br>
-Dia 28 - Pomodoro Timer App: <a href="https://github.com/lfloresbatista/100DaysOfCode/blob/main/100%20Proyectos/DIa28-Pomodoro_Timer_App.py">Code</a>
+Dia 28 - Pomodoro Timer App: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/Day28-Pomodoro_Timer_App">Code</a>
 <br>
 <br>
 <i>Dia 29 - comming soon... :relieved:</i>
