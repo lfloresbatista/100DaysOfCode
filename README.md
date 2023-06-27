@@ -95,6 +95,9 @@ Dia 27 - Miles to Km Converter (tkinter): <a href="https://github.com/lfloresbat
 Dia 28 - Pomodoro Timer App: <a href="https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/Day28-Pomodoro_Timer_App">Code</a>
 <br>
 <br>
-<i>Dia 29 - comming soon... :relieved:</i>
+Dia 29 - Password Manager App: <a href= "https://github.com/lfloresbatista/100DaysOfCode/tree/main/100%20Proyectos/Day29-Password_Manager_App" target="_blank">Code</a>
+<br>
+<br>
+<i>Dia 30 - comming soon... :relieved:</i>
 <br>
 <br> 
